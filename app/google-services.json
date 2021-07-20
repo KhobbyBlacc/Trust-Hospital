@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188611118281",
+    "firebase_url": "https://trusthospital-f2e07.firebaseio.com",
+    "project_id": "trusthospital-f2e07",
+    "storage_bucket": "trusthospital-f2e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188611118281:android:516eb5612dfb6d69",
+        "android_client_info": {
+          "package_name": "com.example.waltex.trusthospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188611118281-hohdh7cvfqfmcdunebhn058j5kn7a557.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waltex.trusthospital",
+            "certificate_hash": "065363456999eed7ec675ca930825e18b368854d"
+          }
+        },
+        {
+          "client_id": "188611118281-dilb74aecj3e0s1agc5suktlem4f0g9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsIzlGwtZjDJ28TsuJ4PPXSTThvTiqUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188611118281-dilb74aecj3e0s1agc5suktlem4f0g9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
